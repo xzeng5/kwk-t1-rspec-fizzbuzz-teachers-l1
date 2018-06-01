@@ -1,4 +1,4 @@
-int = gets.chomp
+int = 3
 
 def fizzbuzz(int)
   fizz_3 = int % 3
