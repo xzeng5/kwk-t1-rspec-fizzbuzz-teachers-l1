@@ -1,3 +1,5 @@
+int = gets.chomp
+
 fizz_3 = int % 3
 
 def fizzbuzz(fizz_3)
