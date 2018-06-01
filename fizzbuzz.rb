@@ -9,8 +9,3 @@ def fizzbuzz(int)
     puts "nil"
   end
 end
-
-fizzbuzz(3)
-fizzbuzz(9)
-fizzbuzz(10)
-fizzbuzz(30)
